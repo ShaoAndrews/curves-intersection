@@ -1,0 +1,3 @@
+/home/shaowb/Dropbox/newyear_interval/build/CMakeFiles/rebuild_cache.dir
+/home/shaowb/Dropbox/newyear_interval/build/CMakeFiles/newyear_interval.dir
+/home/shaowb/Dropbox/newyear_interval/build/CMakeFiles/edit_cache.dir
